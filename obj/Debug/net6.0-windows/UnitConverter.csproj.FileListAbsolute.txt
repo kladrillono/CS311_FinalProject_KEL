@@ -1,0 +1,16 @@
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.exe
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.deps.json
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.runtimeconfig.json
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.dll
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\bin\Debug\net6.0-windows\UnitConverter.pdb
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.Form1.resources
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.csproj.GenerateResource.cache
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.AssemblyInfoInputs.cache
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.AssemblyInfo.cs
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.dll
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\refint\UnitConverter.dll
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.pdb
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\UnitConverter.genruntimeconfig.cache
+C:\Users\kenda\OneDrive\Documents\CS311_FinalProject_KEL\UnitConverter\obj\Debug\net6.0-windows\ref\UnitConverter.dll
